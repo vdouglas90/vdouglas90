@@ -1,7 +1,7 @@
 <h1 align="center">I'm Victor Douglas, brazilian age 33.</h1>
 <h3 align="center">A Brazilian passionate for Mobile and Web Development</h3>
 
-- 🔭 I’m currently working on [HighFive Friendship](https://www.highfivefriendship.com.br)
+- 🔭 I’m currently working on [HighFive Friendship](https://www.highfivefriendship.com.br) and [Poker Depot](https://pokerdepot.com.br/)
 
 - 📫 How to reach me **victordouglas_gsousa@hotmail.com**
 
